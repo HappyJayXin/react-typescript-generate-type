@@ -1,0 +1,3 @@
+type TypeA = {
+  name: string
+}
