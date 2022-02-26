@@ -13,4 +13,3 @@ interface Details {
 interface Group {
   name: string;
 }
-export default User;
